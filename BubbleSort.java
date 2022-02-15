@@ -1,6 +1,7 @@
 public class BubbleSort{
 public static void main(String args[]){
-	int[] vet = {5, 3, 2, 4, 7, 1, 0, 6};
+	//int[] vet = {5, 3, 2, 4, 7, 1, 0, 6};
+	int[] vet = {20, 15, 62, 44, 7, 10, 80, 56};
 	int aux = 0;
 	int i = 0;
 
